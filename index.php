@@ -44,6 +44,8 @@
                         <li><a href="exercicios.php?dir=array&file=sorteio">Desafio - Sorteio</a></li>
                         <li><a href="exercicios.php?dir=array&file=multidimensional">Array - Multidimensional </a></li>
                         <li><a href="exercicios.php?dir=array&file=get">Array - $_GET </a></li>
+                        <li><a href="exercicios.php?dir=array&file=post">Array - $_POST </a></li>
+                        <li><a href="exercicios.php?dir=array&file=comparacao">Array - Comparação </a></li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
