@@ -51,9 +51,12 @@
                 <div class="modulo roxo">
                     <h3>Módulo 04</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
+                    <li><a href="exercicios.php?dir=for&file=for">Ciclo for - Inicio </a></li>
+                    <li><a href="exercicios.php?dir=for&file=desafiofor">Desafio Ciclo For </a></li>
+                    <li><a href="exercicios.php?dir=for&file=foreach">Sintaxe Foreach</a></li>
+                    <li><a href="exercicios.php?dir=for&file=break_continue">Break Continue</a></li>
+                    <li><a href="exercicios.php?dir=for&file=impressao">Desafio Impressao</a></li>
+                    <li><a href="exercicios.php?dir=for&file=dowhile">Do While</a></li><li><a href="exercicios.php?dir=for&file=tabela">Desafio - Tabela</a></li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
