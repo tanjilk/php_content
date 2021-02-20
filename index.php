@@ -56,15 +56,21 @@
                     <li><a href="exercicios.php?dir=for&file=foreach">Sintaxe Foreach</a></li>
                     <li><a href="exercicios.php?dir=for&file=break_continue">Break Continue</a></li>
                     <li><a href="exercicios.php?dir=for&file=impressao">Desafio Impressao</a></li>
-                    <li><a href="exercicios.php?dir=for&file=dowhile">Do While</a></li><li><a href="exercicios.php?dir=for&file=tabela">Desafio - Tabela</a></li>
+                    <li><a href="exercicios.php?dir=for&file=dowhile">Do While</a>
+                    </li><li><a href="exercicios.php?dir=for&file=tabela">Desafio - Tabela</a></li>
+                    </li>
+                    <li><a href="exercicios.php?dir=for&file=tabela2">Desafio - Tabela 2</a></li>
+                    
                     </ul>
                 </div>
                 <div class="modulo laranja">
                     <h3>Módulo 05</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=escopo">Funcções - Escopo</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=arg_retorno">Argumento - Retorno</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=polindromo">Desafio - Polindromo</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=arg_variaveis">Argumento - Variaveis</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=anonymus_function">Anonymus - Função</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
