@@ -71,6 +71,7 @@
                     <li><a href="exercicios.php?dir=funcoes&file=polindromo">Desafio - Polindromo</a></li>
                     <li><a href="exercicios.php?dir=funcoes&file=arg_variaveis">Argumento - Variaveis</a></li>
                     <li><a href="exercicios.php?dir=funcoes&file=anonymus_function">Anonymus - Função</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=clusurecollable">Função - Closure & Callable</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
@@ -103,6 +104,16 @@
                         <li><a href="#">Exercício A</a></li>
                         <li><a href="#">Exercício A</a></li>
                         <li><a href="#">Exercício A</a></li>
+                    </ul>
+                </div>
+                <div class="modulo azul-escuro">
+                    <h3>
+                        Pratica de exercicios
+                    </h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=verify_PN0">Verify PN0</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=tabuada">Tabuada</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=factorial">Factorial</a></li>
                     </ul>
                 </div>
 
