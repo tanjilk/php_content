@@ -17,7 +17,7 @@
         return $a - $b;
     };
 
-    function execute($a, $b, $op, $funcao){
+    function execute($a, $b, $op, Callable $funcao){
         $resultado = $funcao($a, $b);
         echo "$a $op $b = $resultado<br>";
     }
