@@ -72,6 +72,10 @@
                     <li><a href="exercicios.php?dir=funcoes&file=arg_variaveis">Argumento - Variaveis</a></li>
                     <li><a href="exercicios.php?dir=funcoes&file=anonymus_function">Anonymus - Função</a></li>
                     <li><a href="exercicios.php?dir=funcoes&file=clusurecollable">Função - Closure & Callable</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=recursivo">Função - Recursiva</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=desafio_recursividade">Função - Desafio Recursiva</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=ret_funcao">Função - Retornar função</a></li>
+                    <li><a href="exercicios.php?dir=funcoes&file=map_filter">Função - Map $ Filter</a></li>
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
