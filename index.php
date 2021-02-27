@@ -82,7 +82,7 @@
                     <h3>Módulo 06</h3>
                     <ul>
                         
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=classes">POO - Classes</a></li>
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
