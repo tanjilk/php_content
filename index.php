@@ -83,7 +83,8 @@
                     <ul>
                         
                         <li><a href="exercicios.php?dir=POO&file=classes">POO - Classes</a></li>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=heranca">POO - Heranca</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=visibilidade">POO - Visibilidade</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
