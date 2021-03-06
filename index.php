@@ -85,6 +85,7 @@
                         <li><a href="exercicios.php?dir=POO&file=classes">POO - Classes</a></li>
                         <li><a href="exercicios.php?dir=POO&file=heranca">POO - Heranca</a></li>
                         <li><a href="exercicios.php?dir=POO&file=visibilidade">POO - Visibilidade</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=static">POO - Static</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
@@ -119,6 +120,7 @@
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=verify_PN0">Verify PN0</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=tabuada">Tabuada</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=factorial">Factorial</a></li>
+
                     </ul>
                 </div>
 
