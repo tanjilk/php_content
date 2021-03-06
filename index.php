@@ -120,6 +120,7 @@
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=verify_PN0">Verify PN0</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=tabuada">Tabuada</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=factorial">Factorial</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=oop">OOP Person & User</a></li>
 
                     </ul>
                 </div>
