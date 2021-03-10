@@ -89,6 +89,7 @@
                         <li><a href="exercicios.php?dir=POO&file=interface">POO - Interface</a></li>
                         <li><a href="exercicios.php?dir=POO&file=abstract">POO - Abstract</a></li>
                         <li><a href="exercicios.php?dir=POO&file=solvingErr">POO - Solving the error</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=final">POO - Modificador Final</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
