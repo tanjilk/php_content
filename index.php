@@ -90,6 +90,7 @@
                         <li><a href="exercicios.php?dir=POO&file=abstract">POO - Abstract</a></li>
                         <li><a href="exercicios.php?dir=POO&file=solvingErr">POO - Solving the error</a></li>
                         <li><a href="exercicios.php?dir=POO&file=final">POO - Modificador Final</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=traitsconf">POO - Traits #01</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
@@ -125,6 +126,9 @@
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=tabuada">Tabuada</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=factorial">Factorial</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=oop">OOP Person & User</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=modificador_final">Modificador Final</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=traits">Traits</a></li>
+
 
                     </ul>
                 </div>
