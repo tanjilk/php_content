@@ -92,6 +92,7 @@
                         <li><a href="exercicios.php?dir=POO&file=final">POO - Modificador Final</a></li>
                         <li><a href="exercicios.php?dir=POO&file=traitsconf">POO - Traits #01</a></li>
                         <li><a href="exercicios.php?dir=POO&file=traitsc2">POO - Traits #02</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=magic_methods">POO - Metodos magicos</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
