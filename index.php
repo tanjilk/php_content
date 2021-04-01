@@ -131,6 +131,7 @@
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=oop">OOP Person & User</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=modificador_final">Modificador Final</a></li>
                         <li><a href="exercicios.php?dir=pratica_exercicios&file=traits">Traits</a></li>
+                        <li><a href="exercicios.php?dir=pratica_exercicios&file=pessoa">Pessoa</a></li>
 
 
                     </ul>
