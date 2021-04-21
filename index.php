@@ -99,9 +99,12 @@
                 <div class="modulo vermelho-escuro">
                     <h3>Módulo 07</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=include">Includes - Introdução</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=include_function">Includes - Funções</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=include_require">Includes - Require</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=require_return">Require - Retornos</a></li>
+                        <li><a href="exercicios.php?dir=includes&file=include_once">Include - Once</a></li>
+
                     </ul>
                 </div>
                 <div class="modulo azul-escuro">
